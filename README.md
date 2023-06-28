@@ -2,4 +2,4 @@
 
 ### Nome aluno(a)
 
-[comment]: <Ian Alves de Souza> 
+Ian Alves de Souza
